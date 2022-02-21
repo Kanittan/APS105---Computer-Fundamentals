@@ -2,7 +2,7 @@
 Lab Projects completed in C Programming language at the University of Toronto in Winter 2021.
 
 ### **Labs Overview:**
-**Lab** **1**- **Simple Computation in C**\
+**Lab** **1** - **Simple Computation in C**\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that reads in 3 numbers from the user through the keyboard, then output half of their sum, twice their product, and &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;average of the 3 numbers.
 
 
