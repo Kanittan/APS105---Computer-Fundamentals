@@ -35,15 +35,17 @@ Lab Projects completed in C Programming language at the University of Toronto in
 
 **Lab 6** - Battleship Game\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that sets up the boards for the game.\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • In use one board will be set up according to user ("Player") input, another will be randomly generated for the opponent.\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • In use one board will be set up according to user ("Player") input, another will be randomly generated for the opponent.
 
 
-**Lab 7** - Reversi Game (Part 1)\
-
+**Lab 7** - Reversi(Othello) Game (Part 1)\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Implements the specified Algorithm to play against computer.
 
 
 **Lab 8** - Reversi Game (Part 2)\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 1: Implements the specified Algorithm in Lab 7\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Implements the specified Algorithm to play against computer AI.
+
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 2: Implements our own Algorithm
       
       
