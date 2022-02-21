@@ -7,7 +7,7 @@ Lab Projects completed in C Programming language at the University of Toronto in
 
 **Lab 2** - Programs that Calculate\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Part 1: Program that calculates Cash Back\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A C program that calculate the total amount to pay, given that “for every 3 dollars spent on produce in the store, you get &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; 10 cents cash back”. The program reads in the price per pound of the produce, the weight of the produce(in pounds) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and outputs the total charge and the total savings rounded to two decimal places
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • A C program that calculate the total amount to pay, given that “for every 3 dollars spent on produce in the store, you get &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; 10 cents cash back”. The program reads in the price per pound of the produce, the weight of the produce(in pounds) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; and outputs the total charge and the total savings rounded to two decimal places
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 2: Program that round price to the nearest Nickel\
 
@@ -16,7 +16,8 @@ Lab Projects completed in C Programming language at the University of Toronto in
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Accept and validate user input from the keyboard.\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Use the user input to perform and output useful calculations.\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Make decisions based on different conditions.\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Loop (i.e., repeat code) a certain number of times based on different conditions. • Explicitly format the output of numbers.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Loop a certain number of times based on different conditions.\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Explicitly format the output of numbers.
 
 **Lab 4** - Repetition and Decision Making\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 1: Program that calculates change containing minimum number of coins required\
