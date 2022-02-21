@@ -3,7 +3,7 @@ Lab Projects completed in C Programming language at the University of Toronto in
 
 ### **Labs Overview:**
 **Lab** **1**- Simple Computation in C\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program that reads in 3 numbers from the user through the keyboard, then output half of their sum, twice their product, and average &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; of the 3 numbers.\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program that reads in 3 numbers from the user through the keyboard, then output half of their sum, twice their product, and average &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; of the 3 numbers.\
 
 **Lab 2** - Programs that Calculate\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Part 1: Program that calculates Cash Back\
