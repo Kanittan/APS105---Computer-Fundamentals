@@ -25,7 +25,7 @@ Lab Projects completed in C Programming language at the University of Toronto in
 
 **Lab 4** - Repetition and Decision Making\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; Part 1: Making Change\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that calculates change containing minimum number of coins required. (Quarter, Dime, Nickel, Cents)\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that calculates change containing minimum number of coins required. (Quarter, Dime, Nickel, Cents)\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 2: Triangle Generator
        
        
