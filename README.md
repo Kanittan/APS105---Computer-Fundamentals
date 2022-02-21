@@ -4,8 +4,8 @@ Lab Projects completed in C Programming language at the University of Toronto in
 **Lab Overview:**\
 Lab 1 - Simple Computation in C\
 Lab 2 - Programs that Calculate\
-        Part 1: Program that calculates Cash Back\
-        Part 2: Program that round price to the nearest Nickel\
+________Part 1: Program that calculates Cash Back\
+________Part 2: Program that round price to the nearest Nickel\
 Lab 3 - Simplified Blackjack Game\
 Lab 4 - Repetition and Decision Making\
         Part 1: Program that calculates change containing minimum number of coins required\
