@@ -3,7 +3,7 @@ Lab Projects completed in C Programming language at the University of Toronto in
 
 ### **Labs Overview:**
 **Lab** **1**- Simple Computation in C\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Program that reads in 3 numbers from the user through the keyboard, then output half of their sum, twice their product, and average &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; of the 3 numbers.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that reads in 3 numbers from the user through the keyboard, then output half of their sum, twice their product, and average &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; of the 3 numbers.
 
 
 **Lab 2** - Programs that Calculate\
@@ -30,7 +30,8 @@ Lab Projects completed in C Programming language at the University of Toronto in
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • C program that draws a triangle of a given number of rows (From 1-20).
        
        
-**Lab 5** - Pascal Triangle: Prints out x rows of Pascals Triangle
+**Lab 5** - Pascal Triangle:
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that prints out x rows of Pascals Triangle, where x is 0-13.
 
 
 **Lab 6** - Battleship Game
