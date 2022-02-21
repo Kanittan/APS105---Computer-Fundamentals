@@ -13,10 +13,10 @@ Lab Projects completed in C Programming language at the University of Toronto in
 
 
 **Lab 3** - Simplified Blackjack Game\
-Accept and validate user input from the keyboard.\
-• Use the user input to perform and output useful calculations.
-• Make decisions based on different conditions.
-• Loop (i.e., repeat code) a certain number of times based on different conditions. • Explicitly format the output of numbers.\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Accept and validate user input from the keyboard.\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Use the user input to perform and output useful calculations.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Make decisions based on different conditions.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Loop (i.e., repeat code) a certain number of times based on different conditions. • Explicitly format the output of numbers.\
 
 **Lab 4** - Repetition and Decision Making\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 1: Program that calculates change containing minimum number of coins required\
