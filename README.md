@@ -16,11 +16,11 @@ Lab Projects completed in C Programming language at the University of Toronto in
 Program that round price to the nearest Nickel\
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Part 3: Interest Compounding\
-A program which computes the projected money in the account after t years from given inputs:\
-• Intial Deposit Amount (P)\
-• Annual interest rate (r)\
-• Number of times that interest is compounded per year (n)\
-• Number of years the money is invested (t)\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A program which computes the projected money in the account after t years from given inputs:\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Intial Deposit Amount (P)\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Annual interest rate (r)\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Number of times that interest is compounded per year (n)\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Number of years the money is invested (t)\
 
 
 
