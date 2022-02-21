@@ -1,8 +1,7 @@
 # APS105: Computer-Fundamentals
 Lab Projects completed in C Programming language at the University of Toronto in Winter 2021.
 
-
-### **Lab Overview:**
+### **Labs Overview:**
 **Lab** **1**- Simple Computation in C
 
 **Lab 2** - Programs that Calculate\
