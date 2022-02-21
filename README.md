@@ -50,5 +50,6 @@ Lab Projects completed in C Programming language at the University of Toronto in
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Design and implement our own Algorithm to play against computer AI and other students.
       
       
-**Lab 9** - Contact List
+**Lab 9** - Contact List\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Program that implements a digital phone book utility which allows you to search contacts with their phone numbers. Commands and Utilities that are implemented:
 
