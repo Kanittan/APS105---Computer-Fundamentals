@@ -27,6 +27,7 @@ Lab Projects completed in C Programming language at the University of Toronto in
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; Part 1: Making Change\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that calculates change containing minimum number of coins required. (Quarter, Dime, Nickel, Cents)\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 2: Triangle Generator
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • C program that draws a triangle of a given number of rows (From 1-20).
        
        
 **Lab 5** - Pascal Triangle: Prints out x rows of Pascals Triangle
