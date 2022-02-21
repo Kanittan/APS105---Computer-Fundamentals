@@ -30,7 +30,7 @@ Lab Projects completed in C Programming language at the University of Toronto in
        
        
 **Lab 5** - Pascal Triangle:\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;• Program that prints out x rows of Pascals Triangle, where x is 0-13.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that prints out x rows of Pascals Triangle, where x is 0-13.
 
 
 **Lab 6** - Battleship Game\
