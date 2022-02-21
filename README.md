@@ -29,14 +29,14 @@ Lab Projects completed in C Programming language at the University of Toronto in
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • C program that draws a triangle of a given number of rows (From 1-20).
        
        
-**Lab 5** - Pascal Triangle:
+**Lab 5** - Pascal Triangle:\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that prints out x rows of Pascals Triangle, where x is 0-13.
 
 
-**Lab 6** - Battleship Game
+**Lab 6** - Battleship Game\
 
 
-**Lab 7** - Reversi Game (Part 1)
+**Lab 7** - Reversi Game (Part 1)\
 
 
 **Lab 8** - Reversi Game (Part 2)\
