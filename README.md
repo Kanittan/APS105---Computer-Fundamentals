@@ -21,7 +21,8 @@ Lab Projects completed in C Programming language at the University of Toronto in
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Explicitly format the output of numbers.
 
 **Lab 4** - Repetition and Decision Making\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 1: Program that calculates change containing minimum number of coins required\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 1: Making Change\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that makes change for amounts less than one dollar by calculating change containing minimum number of coins required.
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Part 2: Triangle Generator
        
 **Lab 5** - Pascal Triangle: Prints out x rows of Pascals Triangle
