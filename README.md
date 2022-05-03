@@ -59,7 +59,7 @@ Lab Projects completed in C Programming language at the University of Toronto in
       
       
 **Lab 9** - **Digital Phone Book**\
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that implements a digital phone book utility which allows you to search contacts with their phone numbers.\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Program that implements Linked List to create a digital phone book utility which allows you to search contacts with their phone numbers.\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • Commands and Utilities that are implemented:\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1. List all contacts in alphabetical order\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2. Print phone(s) for a contact\
