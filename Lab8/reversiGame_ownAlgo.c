@@ -474,9 +474,6 @@ int checkValidAndFlip(char board[][26], int row, int col, char colour, int n, bo
 // Function:makeMove
 
 int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
-
-    
-
     int boardScore[26][26];
 
     int countTile=0;
@@ -524,7 +521,6 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
     int highestRow = -1, highestCol = -1;
 
     
-
     int countCorner = 0;
 
     int boardCornerScore[4];
@@ -534,7 +530,6 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
     int cornerCol[4];
 
     
-
     int countBorder = 0;
 
     int boardBorderScore[96];
@@ -544,7 +539,6 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
     int borderCol[96];
 
     
-
     int boardScoreRow[576];
 
     int boardScoreCol[576];
@@ -552,9 +546,6 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
     int countScore = 0;
 
     int boardScoreScore[576]; //Store score from boardscoreRow and boardScoreCol(26x26)-(Corner and Border)
-
-    
-
     
 
     for(int countRow = 0; countRow < n; countRow++)
@@ -608,7 +599,6 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
                 else
 
                 {
-
                     boardScoreScore[countScore] = boardScore[countRow][countCol];
 
                     boardScoreRow[countScore] = countRow;
@@ -616,12 +606,7 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
                     boardScoreCol[countScore] = countCol;
 
                     countScore++;
-
-
-
                 }
-
-               
 
             }
 
@@ -671,69 +656,45 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
                 boardScoreCol[countArr1] = boardScoreCol[countArr2];
 
                 boardScoreCol[countArr2] = temp3;
-
             }
-
         }
-
     }
-
-
-
     
 
     if(countCorner > 0)
-
     {
-
         int highestScore=0;
 
         for(int i=0; i<countCorner;i++)
-
         {
-
             if(boardCornerScore[i] > highestScore)
-
             {
-
                 highestScore = boardCornerScore[i];
 
                 *row = cornerRow[i];
 
                 *col = cornerCol[i];
-
             }
-
         }
-
     }
 
     
 
     else if(countBorder > 0)
-
     {
-
         int highestScore=0;
 
         for(int i=0; i<countBorder;i++)
-
         {
-
             if(boardBorderScore[i] > highestScore)
-
             {
-
                 highestScore = boardBorderScore[i];
 
                 *row = borderRow[i];
 
                 *col = borderCol[i];
-
             }
-
         }
-
     }
 
     
@@ -747,113 +708,64 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
     else if((countTurn < (((float)n*n)-4)*96/100) && countTile > ((float)n*n)*36/100)
 
 //96 and 36 wins Smertest AI
-
     {
-
-        
-
         int i=0;
 
         while(i<countScore)
-
         {
-
             if(boardScoreRow[i]==1 || boardScoreRow[i]==n-2 || boardScoreCol[i]==1 || boardScoreCol[i]==n-2)
-
             {
-
                 i++;
-
             }
-
             else
-
             {
-
                 *row = boardScoreRow[i];
 
                 *col = boardScoreCol[i];
 
                 break;
-
             }
-
         }
 
-        
-
         if(i==countScore)
-
         {
-
             *row = boardScoreRow[0];
 
             *col = boardScoreCol[0];
-
         }
-
     }
-
-    
-
+	
     else
-
     {
-
-        
-
         int i=countScore-1;
 
         while(i>=0)
-
         {
 
             if(boardScoreRow[i]==1 || boardScoreRow[i]==n-2 || boardScoreCol[i]==1 || boardScoreCol[i]==n-2)
-
             {
-
                 i--;
-
             }
 
             else
-
             {
-
                 *row = boardScoreRow[i];
 
                 *col = boardScoreCol[i];
 
-//                printf("row=%d, col=%d\n", *row, *col);
-
+//              printf("row=%d, col=%d\n", *row, *col);
                 break;
-
             }
-
         }
 
-        
-
         if(i==-1)
-
         {
-
             *row = boardScoreRow[countScore-1];
 
             *col = boardScoreCol[countScore-1];
-
-//            printf("row=%d, col=%d\n", *row, *col);
-
         }
-
-//        printf("row=%d, col=%d\n", *row, *col);
-
     }
-
-    
-
     return 0;
-
 }
 
 
