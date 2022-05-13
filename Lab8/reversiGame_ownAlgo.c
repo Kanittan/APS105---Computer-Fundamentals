@@ -513,28 +513,6 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
 
     }
 
-    
-
-//    for(int i=0;i<n;i++)
-
-//    {
-
-//        for(int j=0;j<n;j++)
-
-//        {
-
-//            printf("%d ", boardScore[i][j]);
-
-//        }
-
-//        printf("\n");
-
-//    }
-
-    
-
-    
-
     int lowestScore = n*n + 1;
 
     int lowestRow = -1, lowestCol = -1;
@@ -650,19 +628,6 @@ int makeMove(const char board[26][26], int n, char turn, int *row, int *col) {
         }
 
     }
-
-    ////
-
-//    for(int i=0; i< countScore ; i++)
-
-//    {
-
-//        printf("Score=%d, row=%d, column=%d\n", boardScoreScore[i], boardScoreRow[i], boardScoreCol[i]);
-
-//    }
-
-    ///
-
     
 
     int temp1, temp2, temp3;
